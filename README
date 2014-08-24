@@ -1,0 +1,7 @@
+This is the README file for the site. Hello!
+
+Currently, there's not much to know. The server hosts primarily pages
+made with html and css, and not much else. There's the space to add 
+javascript and php, but at the moment there might not be enough to 
+have MySQL running on the Beaglebone. Plus, I don't really need that
+kind of thing at the moment - It's a pretty basic server, ya know?
